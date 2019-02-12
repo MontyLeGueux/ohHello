@@ -1,0 +1,11 @@
+c:\users\lemontagnard\documents\visual studio 2017\Projects\oh hello\oh hello\obj\Debug\oh hello.csprojResolveAssemblyReference.cache
+c:\users\lemontagnard\documents\visual studio 2017\Projects\oh hello\oh hello\obj\Debug\oh_hello.ui.OhHelloForm.resources
+c:\users\lemontagnard\documents\visual studio 2017\Projects\oh hello\oh hello\obj\Debug\oh_hello.Properties.Resources.resources
+c:\users\lemontagnard\documents\visual studio 2017\Projects\oh hello\oh hello\obj\Debug\oh hello.csproj.GenerateResource.Cache
+c:\users\lemontagnard\documents\visual studio 2017\Projects\oh hello\oh hello\bin\Debug\oh hello.exe.config
+c:\users\lemontagnard\documents\visual studio 2017\Projects\oh hello\oh hello\bin\Debug\oh hello.exe
+c:\users\lemontagnard\documents\visual studio 2017\Projects\oh hello\oh hello\bin\Debug\oh hello.pdb
+c:\users\lemontagnard\documents\visual studio 2017\Projects\oh hello\oh hello\obj\Debug\oh hello.exe
+c:\users\lemontagnard\documents\visual studio 2017\Projects\oh hello\oh hello\obj\Debug\oh hello.pdb
+C:\Users\Monty\Documents\programming\backups\03-02-2019\oh hello\oh hello\obj\Debug\oh hello.exe
+C:\Users\Monty\Documents\programming\backups\03-02-2019\oh hello\oh hello\obj\Debug\oh hello.pdb

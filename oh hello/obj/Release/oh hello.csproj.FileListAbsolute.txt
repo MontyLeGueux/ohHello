@@ -1,0 +1,10 @@
+C:\Users\Monty\Documents\programming\backups\03-02-2019\oh hello\oh hello\bin\Release\oh hello.exe.config
+C:\Users\Monty\Documents\programming\backups\03-02-2019\oh hello\oh hello\bin\Release\oh hello.exe
+C:\Users\Monty\Documents\programming\backups\03-02-2019\oh hello\oh hello\bin\Release\oh hello.pdb
+C:\Users\Monty\Documents\programming\backups\03-02-2019\oh hello\oh hello\obj\Release\oh hello.csprojAssemblyReference.cache
+C:\Users\Monty\Documents\programming\backups\03-02-2019\oh hello\oh hello\obj\Release\oh_hello.ui.OhHelloForm.resources
+C:\Users\Monty\Documents\programming\backups\03-02-2019\oh hello\oh hello\obj\Release\oh_hello.Properties.Resources.resources
+C:\Users\Monty\Documents\programming\backups\03-02-2019\oh hello\oh hello\obj\Release\oh hello.csproj.GenerateResource.cache
+C:\Users\Monty\Documents\programming\backups\03-02-2019\oh hello\oh hello\obj\Release\oh hello.csproj.CoreCompileInputs.cache
+C:\Users\Monty\Documents\programming\backups\03-02-2019\oh hello\oh hello\obj\Release\oh hello.exe
+C:\Users\Monty\Documents\programming\backups\03-02-2019\oh hello\oh hello\obj\Release\oh hello.pdb
